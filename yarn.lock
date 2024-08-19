@@ -7776,7 +7776,7 @@ __metadata:
     react-dom: ^18.2.0
     react-error-boundary: ^4.0.11
     react-hook-form: ^7.44.3
-    react-icons: ^4.9.0
+    react-icons: ^5.3.0
     react-router-dom: ^6.12.1
     uuid: ^9.0.0
     vite: ^5.0.8
@@ -7812,7 +7812,7 @@ __metadata:
     prism-react-renderer: ^2.3.0
     react: ^18.2.0
     react-dom: ^18.2.0
-    react-icons: ^4.11.0
+    react-icons: ^5.3.0
     sirv: ^2.0.3
     sitemap: ^7.1.1
     tsx: "*"
@@ -16144,12 +16144,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-icons@npm:^4.11.0, react-icons@npm:^4.9.0":
-  version: 4.12.0
-  resolution: "react-icons@npm:4.12.0"
+"react-icons@npm:^5.3.0":
+  version: 5.3.0
+  resolution: "react-icons@npm:5.3.0"
   peerDependencies:
     react: "*"
-  checksum: db82a141117edcd884ade4229f0294b2ce15d82f68e0533294db07765d6dce00b129cf504338ec7081ce364fe899b296cb7752554ea08665b1d6bad811134e79
+  checksum: 3aa5f50e05aafc6d31e0d995fe0d98560069aa88717b24ce8aaa082a7e7b20ca95e1e19d847ed6e52d658a5a30e15826af20d7554bf993a743edd55586db62e3
   languageName: node
   linkType: hard
 
